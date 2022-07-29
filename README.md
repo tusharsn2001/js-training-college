@@ -1,0 +1,2 @@
+# js-training-college
+Assignments
